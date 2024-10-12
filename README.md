@@ -42,7 +42,7 @@ yarn i
 ```shell
 yarn run dev
 
-# http://localhost:3000/
+# http://localhost:4321/
 ```
 
 ## How to Build
