@@ -1666,8 +1666,8 @@ __metadata:
   linkType: hard
 
 "ahooks@npm:^3.8.1":
-  version: 3.8.1
-  resolution: "ahooks@npm:3.8.1"
+  version: 3.8.4
+  resolution: "ahooks@npm:3.8.4"
   dependencies:
     "@babel/runtime": "npm:^7.21.0"
     dayjs: "npm:^1.9.1"
@@ -1680,7 +1680,7 @@ __metadata:
     tslib: "npm:^2.4.1"
   peerDependencies:
     react: ^16.8.0 || ^17.0.0 || ^18.0.0
-  checksum: 10/26d0c55d71aa8379dd34f7b579e88c427932d2095865e202f2d96b2060ccfc9f2dac66079c30f289e508820e5ae5a7d49ca809befd7276447c80431158e36b50
+  checksum: 10/cfb976c68e813ba3c0a5342df901a60041ce62e237bdfc4ad988624abb5e25d904ad81b2723b9f6c054b88681309bfadba805253bc4ab5f4b0436dea6e017380
   languageName: node
   linkType: hard
 
